@@ -1,13 +1,14 @@
 # Landing Page Project
+This is the first project at the FWD Web Development Profissional Track (Landing Page Project). The project sekleton was a ready html, css and javascript files included.
+html and css files was already implemented and coded the project is just to add the aimed javascript code required.
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [How to run the project](#how_to_run_the_project)
+* [What was implemented](#what_was_implemented)
 
-## Instructions
+## How to run the project
+Just open the index.html file in a browser of your preference and it will work fine.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## What was implemented
+All Javascript code I implemented the aim goal was to create a navbar links to navigate through page's sections smoothly all with javascripts.
