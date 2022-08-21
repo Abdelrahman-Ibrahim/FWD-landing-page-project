@@ -1,6 +1,5 @@
 # Landing Page Project
-This is the first project at the FWD Web Development Profissional Track (Landing Page Project). The project sekleton was a ready html, css and javascript files included.
-html and css files was already implemented and coded the project is just to add the aimed javascript code required.
+This is the first project at the FWD Web Development Profissional Track (Landing Page Project) for August Cohort 2022. The project sekleton was a ready html, css and javascript files included. html and css files was already implemented and coded the project is just to add the aimed javascript code required.
 
 ## Table of Contents
 
